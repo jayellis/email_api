@@ -1,0 +1,6 @@
+var config = {
+  AWS_KEY:'',
+  AWS_SECRET:''
+};
+
+module.exports = config;
